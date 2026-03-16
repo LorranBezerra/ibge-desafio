@@ -252,12 +252,3 @@ A solução foi desenvolvida com foco em:
 
 O projeto pode ser facilmente expandido para lidar com arquivos maiores ou integrar outras fontes de dados.
 
----
-
-# 🔗 Repositório
-
-Cole aqui o link do repositório GitHub solicitado na entrega:
-
-```
-<LINK_DO_REPOSITORIO_GITHUB>
-```
