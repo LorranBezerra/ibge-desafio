@@ -16,7 +16,7 @@ Além disso, o programa calcula estatísticas sobre os dados processados e envia
 * Axios (requisições HTTP)
 * csv-parser (leitura de CSV)
 * csv-writer (geração de CSV)
-* dotenv (variáveis de ambiente)
+
 
 ---
 
@@ -35,7 +35,6 @@ ibge-desafio
 ├── resultado.csv       # Arquivo gerado pelo programa
 │
 ├── package.json
-├── .env.example        # Exemplo de configuração de ambiente
 └── README.md
 ```
 
@@ -177,7 +176,7 @@ Authorization: Bearer ACCESS_TOKEN
 
 # 🚀 Como Executar o Projeto
 
-### 1️⃣ Clonar o repositório
+###  Clonar o repositório
 
 ```
 git clone <URL_DO_REPOSITORIO>
@@ -186,7 +185,7 @@ cd ibge-desafio
 
 ---
 
-### 2️⃣ Instalar dependências
+###  Instalar dependências
 
 ```
 npm install
@@ -194,17 +193,8 @@ npm install
 
 ---
 
-### 3️⃣ Configurar variáveis de ambiente
 
-Criar um arquivo `.env` baseado no `.env.example`:
-
-```
-ACCESS_TOKEN=seu_token_aqui
-```
-
----
-
-### 4️⃣ Executar o programa
+###  Executar o programa
 
 ```
 node index.js
